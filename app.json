@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Target-Gym",
+    "slug": "Target-Gym",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/Gym Logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Gym Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Gym Logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sonjishashank.TargetGym"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8ff293ca-6871-4b05-83d3-3dc3ee1f3a19"
+      }
+    }
+  }
+}
